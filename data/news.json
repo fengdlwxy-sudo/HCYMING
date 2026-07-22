@@ -1,0 +1,56 @@
+{
+  "featured": {
+    "id": "featured-1",
+    "title": "高考，是孩子尤为重要的一条路，但不是唯一。",
+    "summary": "当下中国家庭的教育选择，正在从「孤注一掷」走向「多元布局」。放养、鸡娃、留学、华侨生、国际生，这五条主流路径背后藏着截然不同的教育逻辑和家庭规划。",
+    "image": "",
+    "gradient": "linear-gradient(135deg, #007A8A 0%, #00A8B5 100%)",
+    "icon": "🎓",
+    "link": "article-detail.html?id=a-001",
+    "date": "2026-07-15"
+  },
+  "items": [
+    {
+      "id": "news-1",
+      "title": "除了高考，孩子还有别的出路吗？",
+      "tag": "NEW",
+      "date": "2026-07-15",
+      "link": "article-detail.html?id=a-002"
+    },
+    {
+      "id": "news-2",
+      "title": "这个国家出手了！31页通函严堵漏洞！",
+      "tag": "NEW",
+      "date": "2026-07-15",
+      "link": "article-detail.html?id=a-003"
+    },
+    {
+      "id": "news-3",
+      "title": "「外国人限购令」，黄了！",
+      "tag": "NEW",
+      "date": "2026-07-15",
+      "link": "article-detail.html?id=a-004"
+    },
+    {
+      "id": "news-4",
+      "title": "这三种定义都分不清，还想办理海外身份？",
+      "tag": "NEW",
+      "date": "2026-07-15",
+      "link": "article-detail.html?id=a-005"
+    },
+    {
+      "id": "news-5",
+      "title": "全球最大跨境财富管理中心易主！超越瑞士的是它！",
+      "tag": "资讯",
+      "date": "2026-07-15",
+      "link": "article-detail.html?id=a-006"
+    },
+    {
+      "id": "news-6",
+      "title": "澄清！美国I-485新政策的真正意图其实是...",
+      "tag": "政策",
+      "date": "2026-07-10",
+      "link": "article-detail.html?id=a-007"
+    }
+  ]
+}
